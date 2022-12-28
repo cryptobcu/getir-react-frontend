@@ -3,7 +3,7 @@
 ## Used Technologies
 - React
 - Tailwind CSS
-- React-flags-select
+- react-flags-select
 - react-slick
 - react-icons
 - @react-hook/window-size
